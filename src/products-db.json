@@ -1,0 +1,41 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "우유",
+      "price": 100,
+      "category": "음료수",
+      "done": false
+    },
+    {
+      "title": "단단",
+      "price": 3000,
+      "category": "음료수",
+      "id": 2
+    },
+    {
+      "title": "오렌지",
+      "price": 30000,
+      "category": "과자",
+      "id": 3
+    },
+    {
+      "title": "과자",
+      "price": 15000,
+      "category": "과자",
+      "id": 4
+    },
+    {
+      "title": "ㅇㅇ가",
+      "price": 3000,
+      "category": "음료수",
+      "id": 5
+    },
+    {
+      "title": "진정해 공주야",
+      "price": 100000,
+      "category": "주류",
+      "id": 6
+    }
+  ]
+}
